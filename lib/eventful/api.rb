@@ -164,6 +164,7 @@ require 'base64'
 require 'digest/md5'
 
 
+YAML::ENGINE.yamler = 'syck'
 
 
 
