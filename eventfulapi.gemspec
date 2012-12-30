@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = nil if s.respond_to? :required_rubygems_version=
   s.authors = ["Paul Knight, originally with Joe Auricchio"]
   s.autorequire = "eventful/api"
-  s.cert_chain = nil
   s.date = "2007-10-01"
   s.email = "pknight@eventful.com"
   s.extra_rdoc_files = ["README"]
